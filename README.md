@@ -1,8 +1,5 @@
 # ELECTRA
 
-생성 일시: 2022년 12월 18일 오후 7:35
-진행: 진행
-태그: class
 
 - ELECTRA는 기존 BERT를 비롯한 많은 language model들이 입력을 마스크 토큰으로 치환하고 이를 치환 전의 원본 토큰으로 복원하는 MLM을 사용했던 데에 반해
 - RTD (Replaced Token Detection) 이라는 새로운 pre-training obejctive를 제안하여 학습 효율을 향상시킨 LM이다.
